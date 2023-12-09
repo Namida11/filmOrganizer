@@ -1,0 +1,8 @@
+Button {
+  width: 100px;
+  border-radius: 10px 8px !important;
+  -webkit-border-radius: 10px 8px !important;
+  -moz-border-radius: 10px 8px !important;
+  -ms-border-radius: 10px 8px !important;
+  -o-border-radius: 10px 8px !important;
+}
